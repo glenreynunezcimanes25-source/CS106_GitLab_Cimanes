@@ -1,3 +1,4 @@
 Student Name: Glen Rey N. Cimanes
 Section: BSCS 2B
 Course: CS 106 - App Dev
+Topic: Git Bash Fundamentals
